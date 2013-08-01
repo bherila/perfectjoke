@@ -1,0 +1,20 @@
+body, td {
+	scrollbar-face-color:		#AAAAAA;
+	scrollbar-track-color:		#DDDDDD;
+	scrollbar-arrow-color:		#666600;
+	scrollbar-highlight-color:	#AAAAAA;
+	scrollbar-3dlight-color:	#444444;
+	scrollbar-shadow-color:		#AAAAAA;
+	scrollbar-darkshadow-color:	#444444;
+	font-family: Arial;
+	font-size: 10pt;
+}
+
+.lText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #FFFFFF;
+	background-position: left center;
+	border: 1px solid #666666;
+	border-left: none;
+}
